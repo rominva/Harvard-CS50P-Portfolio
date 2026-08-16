@@ -1,0 +1,1 @@
+    print(validators.email(s))

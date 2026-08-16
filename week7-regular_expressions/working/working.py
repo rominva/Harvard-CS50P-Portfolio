@@ -16,7 +16,6 @@
     # someone might work late and even long hours (e.g., 5:00 PM to 9:00 AM). ✔
 
 import re
-import sys
 
 
 def main():

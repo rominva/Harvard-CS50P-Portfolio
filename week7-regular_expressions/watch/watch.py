@@ -15,7 +15,6 @@
 # If the input does not contain any such URL at all, return "None" ✔
 
 import re
-import sys
 
 
 def main():

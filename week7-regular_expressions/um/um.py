@@ -4,7 +4,6 @@
     # word unto itself, not as a substring of some other word ✔
 
 import re
-import sys
 
 
 def main():
