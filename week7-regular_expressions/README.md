@@ -1,5 +1,7 @@
 # CS50P — Problem Set 7: Regular Expressions
 
+#### Demo : <https://github.com/rominva/Harvard-CS50P-Portfolio/blob/main/week7-regular_expressions/Regex.png>
+
 This repository contains my solutions to **Problem Set 7** of [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/), focused on **Regular Expressions (Regex)** and input validation.
 
 ## 📚 About This Problem Set
